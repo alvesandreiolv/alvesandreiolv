@@ -1,17 +1,22 @@
 <!-- This is a special public repository — its name matches my GitHub username, so GitHub may surface content from here on my profile page. -->
 
+<!-- 
 <h3 align="center">Infrastructure & Security</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alvesandreiolv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/alvesandreiolv/web_audit_scanner_d13"><img src="https://img.shields.io/badge/Web_Audit_Scanner-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=alvesandreiolv&color=8B5CF6&style=for-the-badge&label=visitors" />
 </p>
 
 <p align="center">Building tools to audit, secure, and understand what's running online.</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,github,python,aws" />
+</p>
+-->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alvesandreiolv&color=8B5CF6&style=for-the-badge&label=visitors" />
 </p>
 
 <p align="center">
