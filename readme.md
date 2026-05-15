@@ -1,3 +1,5 @@
+<h1 align="center">Andrei Alves</h1>
+<h3 align="center">Infrastructure & Security</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alvesandreiolv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -8,14 +10,11 @@
   <img src="https://komarev.com/ghpvc/?username=alvesandreiolv&color=8B5CF6&style=flat-square&label=visitors" />
 </p>
 
-<h3 align="center">Infrastructure & Security</h3>
-
 <p align="center">Building tools to audit, secure, and understand what's running online.</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,github,python,aws" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alvesandreiolv&theme=tokyonight" />
