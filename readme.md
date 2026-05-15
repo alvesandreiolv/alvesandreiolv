@@ -26,5 +26,5 @@
 - [**Web Audit Scanner**](https://github.com/alvesandreiolv/web_audit_scanner_d13) — Debian container packed with security tools to scan websites you own. One command, full audit.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=80&section=footer" />
 </p>
