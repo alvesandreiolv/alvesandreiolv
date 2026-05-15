@@ -1,4 +1,3 @@
-<h1 align="center">Andrei Alves</h1>
 <h3 align="center">Infrastructure & Security</h3>
 
 <p align="center">
