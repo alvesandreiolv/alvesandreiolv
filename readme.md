@@ -16,9 +16,6 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,github,python,aws" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvesandreiolv&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alvesandreiolv&theme=tokyonight" />
