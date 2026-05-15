@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=80&section=header" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alvesandreiolv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -32,7 +29,3 @@
 ### Projects
 
 - [**Web Audit Scanner**](https://github.com/alvesandreiolv/web_audit_scanner_d13) — Debian container packed with security tools to scan websites you own. One command, full audit.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=80&section=footer" />
-</p>
