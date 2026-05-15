@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alvesandreiolv&color=8B5CF6&style=flat-square&label=visitors" />
 </p>
-
 <h3 align="center">Infrastructure & Security</h3>
 
 <p align="center">
