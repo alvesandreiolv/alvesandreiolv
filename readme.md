@@ -15,6 +15,7 @@
 </p>
 -->
 
+<!-- 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alvesandreiolv&color=8B5CF6&style=for-the-badge&label=visitors" />
 </p>
@@ -22,7 +23,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=alvesandreiolv&theme=tokyonight" />
 </p>
-
+-->
 ---
 
 ### Projects
