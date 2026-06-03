@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alvesandreiolv&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=alvesandreiolv&amp;theme=tokyonight" />
 </p>
 
 ---
