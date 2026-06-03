@@ -27,4 +27,5 @@
 
 ### Projects
 
+- [**LockedCode**](https://github.com/alvesandreiolv/lockedcode) — OpenCode containerized: the easiest and safest way to let AI agents run wild without letting them loose on your pc.
 - [**Web Audit Scanner**](https://github.com/alvesandreiolv/web_audit_scanner_d13) — Debian container packed with security tools to scan websites you own. One command, full audit.
