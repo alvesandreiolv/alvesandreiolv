@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alvesandreiolv&amp;theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alvesandreiolv&amp;show_icons=true&amp;theme=tokyonight" />
 </p>
 
 ---
